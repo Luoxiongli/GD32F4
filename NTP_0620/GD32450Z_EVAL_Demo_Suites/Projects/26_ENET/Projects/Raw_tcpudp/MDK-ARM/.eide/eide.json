@@ -1,0 +1,459 @@
+{
+  "name": "Project",
+  "type": "ARM",
+  "dependenceList": [],
+  "srcDirs": [],
+  "virtualFolder": {
+    "name": "<virtual_root>",
+    "files": [],
+    "folders": [
+      {
+        "name": "Application",
+        "files": [
+          {
+            "path": "../inc/udp_ntp.h"
+          },
+          {
+            "path": "../src/gd32f4xx_enet_eval.c"
+          },
+          {
+            "path": "../src/gd32f4xx_it.c"
+          },
+          {
+            "path": "../src/hello_gigadevice.c"
+          },
+          {
+            "path": "../src/main.c"
+          },
+          {
+            "path": "../src/netconf.c"
+          },
+          {
+            "path": "../src/tcp_client.c"
+          },
+          {
+            "path": "../src/udp_echo.c"
+          },
+          {
+            "path": "../src/udp_ntp.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "CMSIS",
+        "files": [
+          {
+            "path": "../src/system_gd32f4xx.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Doc",
+        "files": [],
+        "folders": []
+      },
+      {
+        "name": "GD32F4xx_EVAL",
+        "files": [
+          {
+            "path": "../../../../../Utilities/gd32f450z_eval.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "GD32F4xx_Peripherals",
+        "files": [
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_adc.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_can.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_crc.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_ctc.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_dac.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_dbg.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_dci.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_dma.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_enet.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_exmc.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_exti.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_fmc.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_fwdgt.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_gpio.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_i2c.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_ipa.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_iref.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_misc.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_pmu.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_rcu.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_rtc.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_sdio.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_spi.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_syscfg.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_timer.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_tli.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_trng.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_usart.c"
+          },
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Source/gd32f4xx_wwdgt.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Lwip",
+        "files": [
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/api_lib.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/api_msg.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/err.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/if_api.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/netbuf.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/netdb.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/netifapi.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/sockets.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/api/tcpip.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/altcp_alloc.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/altcp_tcp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/altcp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/def.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/dns.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/inet_chksum.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/init.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ip.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/autoip.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/dhcp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/etharp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/icmp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/igmp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/ip4_addr.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/ip4_frag.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/ipv4/ip4.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/mem.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/memp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/netif.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/pbuf.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/raw.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/stats.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/sys.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/tcp_in.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/tcp_out.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/tcp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/timeouts.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/core/udp.c"
+          },
+          {
+            "path": "../../../Third_party/lwip-2.1.2/src/netif/ethernet.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Lwip_port",
+        "files": [
+          {
+            "path": "../../../Third_party/lwip-2.1.2/port/GD32F4xx/Basic/ethernetif.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Startup",
+        "files": [
+          {
+            "path": "../../../../../../GD32F4xx_Firmware_Library/CMSIS/GD/GD32F4xx/Source/ARM/startup_gd32f450_470.s"
+          }
+        ],
+        "folders": []
+      }
+    ]
+  },
+  "outDir": "build",
+  "deviceName": null,
+  "packDir": null,
+  "miscInfo": {
+    "uid": "12bf5223191b2475135c0189ef4f5d8d"
+  },
+  "targets": {
+    "GD32450Z_EVAL": {
+      "excludeList": [],
+      "toolchain": "AC5",
+      "compileConfig": {
+        "cpuType": "Cortex-M4",
+        "floatingPointHardware": "single",
+        "scatterFilePath": "",
+        "useCustomScatterFile": false,
+        "storageLayout": {
+          "RAM": [
+            {
+              "tag": "RAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x20000000",
+                "size": "0x30000"
+              },
+              "isChecked": true,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x10000000",
+                "size": "0x10000"
+              },
+              "isChecked": false,
+              "noInit": false
+            }
+          ],
+          "ROM": [
+            {
+              "tag": "ROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "IROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x8000000",
+                "size": "0x300000"
+              },
+              "isChecked": true,
+              "isStartup": true
+            },
+            {
+              "tag": "IROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            }
+          ]
+        },
+        "options": "null"
+      },
+      "uploader": "JLink",
+      "uploadConfig": {
+        "bin": "",
+        "baseAddr": "",
+        "cpuInfo": {
+          "vendor": "null",
+          "cpuName": "null"
+        },
+        "proType": 1,
+        "speed": 8000,
+        "otherCmds": ""
+      },
+      "uploadConfigMap": {},
+      "custom_dep": {
+        "name": "default",
+        "incList": [
+          "../../../../../../GD32F4xx_Firmware_Library/GD32F4xx_standard_peripheral/Include",
+          "../../../../../Utilities",
+          "../inc",
+          "../../../Third_party/lwip-2.1.2/src/include",
+          "../../../Third_party/lwip-2.1.2/src/include/ipv4",
+          "../../../Third_party/lwip-2.1.2/src/include/netif",
+          "../../../Third_party/lwip-2.1.2/src/include/lwip",
+          "../../../Third_party/lwip-2.1.2/port/GD32F4xx",
+          "../../../Third_party/lwip-2.1.2/port/GD32F4xx/Basic",
+          "../../../../../../GD32F4xx_Firmware_Library/CMSIS",
+          "RTE/_GD32450Z_EVAL"
+        ],
+        "libList": [],
+        "defineList": [
+          "USE_STDPERIPH_DRIVER",
+          "GD32F450"
+        ]
+      }
+    }
+  },
+  "version": "3.4"
+}

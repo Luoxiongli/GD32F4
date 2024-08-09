@@ -1,0 +1,15 @@
+.\output\netifapi.o: ..\..\..\Third_party\lwip-2.1.2\src\api\netifapi.c
+.\output\netifapi.o: ..\..\..\Third_party\lwip-2.1.2\src\include\lwip/opt.h
+.\output\netifapi.o: ..\inc\lwipopts.h
+.\output\netifapi.o: ..\..\..\Third_party\lwip-2.1.2\src\include\lwip/debug.h
+.\output\netifapi.o: ..\..\..\Third_party\lwip-2.1.2\src\include\lwip/arch.h
+.\output\netifapi.o: ..\..\..\Third_party\lwip-2.1.2\port\GD32F4xx\arch/cc.h
+.\output\netifapi.o: ..\..\..\Third_party\lwip-2.1.2\port\GD32F4xx\arch/cpu.h
+.\output\netifapi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\netifapi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\netifapi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\netifapi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\netifapi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\netifapi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\output\netifapi.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\output\netifapi.o: ..\..\..\Third_party\lwip-2.1.2\src\include\lwip/opt.h

@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "lwipopts.h": "c",
+            "dns.h": "c",
+            "ntp_dns.h": "c",
+            "udp_ntp.h": "c",
+            "udp.h": "c",
+            "main.h": "c",
+            "stdio.h": "c",
+            "string.h": "c",
+            "gd32f4xx.h": "c"
+        }
+    },
+    "extensions": {}
+}
